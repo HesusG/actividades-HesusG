@@ -1,0 +1,23 @@
+# Ignore .env files
+.env
+.env.*
+veterinary.json
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+ENV/
+env/
+.virtualenv/
+
+# Ignore CSV and database files
+*.csv
+*.db
+*.sqlite
+*.sqlite3
+*.db3
+*.db2
